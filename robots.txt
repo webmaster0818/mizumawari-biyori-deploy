@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://mizumawari-biyori.com/sitemap.xml
+Sitemap: https://mizumawari-biyori-deploy.pages.dev/sitemap.xml
